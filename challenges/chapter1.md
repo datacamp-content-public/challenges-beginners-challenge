@@ -3,7 +3,7 @@ title: example_python_challenges
 output: html_document
 ---
 
-## Insert challenge title here
+## Beginner challenge
 
 ```yaml
 type: MultipleChoiceChallenge
